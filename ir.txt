@@ -1,2 +1,2 @@
-https://github.com/shabane/kamaji/blob/master/hub/IR.txt
+https://raw.githubusercontent.com/davudsedft/config/refs/heads/main/iran.txt
 
