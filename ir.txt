@@ -1,2 +1,2 @@
-https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/refs/heads/main/countries/ir/mixed
+https://github.com/shabane/kamaji/blob/master/hub/IR.txt
 
