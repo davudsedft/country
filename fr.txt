@@ -1,2 +1,2 @@
-https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/refs/heads/main/Countries/France.txt
+https://raw.githubusercontent.com/davudsedft/config/refs/heads/main/france.txt
 
