@@ -1,1 +1,2 @@
-https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/refs/heads/main/countries/de/mixed
+https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/refs/heads/main/Countries/Germany.txt
+
