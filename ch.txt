@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/refs/heads/main/Countries/Switzerland.txt
+https://raw.githubusercontent.com/sevcator/5ubscrpt10n/refs/heads/main/working/countries/Switzerland.txt
