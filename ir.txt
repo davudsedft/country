@@ -1,2 +1,1 @@
-https://raw.githubusercontent.com/davudsedft/purvpn/refs/heads/main/links/iran.txt
-
+https://raw.githubusercontent.com/davudsedft/config/refs/heads/main/iran.txt
